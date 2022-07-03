@@ -1,0 +1,26 @@
+{
+    "interface":  [
+                      {
+                          "ipv4":  {
+                                       "ipAddress":  [
+                                                         {
+                                                             "privateIpAddress":  "10.0.0.7",
+                                                             "publicIpAddress":  "20.115.38.15"
+                                                         }
+                                                     ],
+                                       "subnet":  [
+                                                      {
+                                                          "address":  "10.0.0.0",
+                                                          "prefix":  "24"
+                                                      }
+                                                  ]
+                                   },
+                          "ipv6":  {
+                                       "ipAddress":  [
+
+                                                     ]
+                                   },
+                          "macAddress":  "000D3A8F4949"
+                      }
+                  ]
+}

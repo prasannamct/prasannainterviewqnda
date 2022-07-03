@@ -1,0 +1,24 @@
+{
+    "compute":  {
+                    "location":  "eastus",
+                    "name":  "metavmone",
+                    "offer":  "WindowsServer",
+                    "osType":  "Windows",
+                    "placementGroupId":  "",
+                    "platformFaultDomain":  "0",
+                    "platformUpdateDomain":  "0",
+                    "publisher":  "MicrosoftWindowsServer",
+                    "resourceGroupName":  "ODL-azureV2-676325",
+                    "sku":  "2016-datacenter-gensecond",
+                    "subscriptionId":  "b2aec48f-6dad-4d57-ad25-dad521fe74a4",
+                    "tags":  "DeploymentId:676325;LaunchId:21565;LaunchType:ON_DEMAND_LAB;TemplateId:4283;TenantId:none",
+                    "version":  "14393.5192.220612",
+                    "vmId":  "d51cd032-559c-4c58-8efa-1d172428fe64",
+                    "vmSize":  "Standard_D2s_v3"
+                },
+    "network":  {
+                    "interface":  [
+                                      "@{ipv4=; ipv6=; macAddress=000D3A8F4949}"
+                                  ]
+                }
+}
